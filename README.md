@@ -28,7 +28,7 @@ You can install the required dependencies by using `pip`:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/shre0505/edunet_chatbot.git
+   git clone https://github.com/Shre-05/edunet_chatbot
    ```
 
 2. Navigate into the project directory:
